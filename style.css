@@ -1,0 +1,38 @@
+#a {
+    width: 300px;
+    height: 400px;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+}
+
+#SLIDESHOW {
+    margin-bottom: 20px;
+}
+
+#z {
+    width: 500px;
+}
+
+.menu {
+    font-family: cursive;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    margin-top: 0px;
+    width: 100%;
+}
+.links {
+    display: inline;
+    padding-left: 30px;
+    padding-right: 25px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: white;
+    font-size: 25px;
+}
